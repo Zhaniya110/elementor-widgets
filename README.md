@@ -1,2 +1,2 @@
 # elementor-widgets
-524-20 slider
+  elementor-524-2023-04-06.json slider
