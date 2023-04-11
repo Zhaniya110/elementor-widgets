@@ -1,0 +1,18 @@
+/*To make slider bars invisible withouth breaking the slider*/
+
+::-webkit-scrollbar {
+  width: 1px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #0000fff ;
+  border-radius: 1em;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color:#0000ff ;
+}
